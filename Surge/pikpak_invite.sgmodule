@@ -8,4 +8,4 @@
 
 [Script]
 # ⚠️下方 argument 需填写个人邀请码
-无限会员 = type=cron,cronexp=0 45 1 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/YGdeevi/pikpaktest/main/pikpak.js,argument=62366618
+无限会员 = type=cron,cronexp=0 45 1 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/YGdevi/pikpaktest/main/pikpak.js,argument=62366618
